@@ -27,6 +27,7 @@
     "srt-to-vtt": "^1.1.3",
     "subtitle": "^4.2.1",
     "torrent-stream": "^1.2.1",
-    "yifysubtitles-api": "^1.0.0"
+    "yifysubtitles-api": "^1.0.0",
+    "ytdl-core": "^4.11.2"
   }
 }
